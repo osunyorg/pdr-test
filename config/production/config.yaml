@@ -2,6 +2,11 @@
 
 baseURL: https://test.pdr.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 151335a2-f972-40ff-8c5e-ae0b86824115
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
